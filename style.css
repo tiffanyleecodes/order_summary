@@ -1,0 +1,172 @@
+@media (min-width:375px){
+       .container{
+        margin:20% 50%;
+        display:block;
+
+       }
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    background-color:hsl(225, 100%, 94%);
+    
+    color:hsl(223, 47%, 23%);
+   
+}
+
+.container {
+    width:330px;
+    background-color: white;
+    margin:15vh auto;
+    display:block;
+    text-align: center;
+    border-radius: 15px;
+
+}
+
+
+.container img {
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.summary {
+    padding-top:10px;
+    
+    
+}
+
+h1 {
+    font-size: 0;
+}
+
+h2 {
+    font-size:24px;
+    font-weight: 900;
+}
+
+.desprition {
+
+    color:hsl(224, 23%, 55%);
+    padding: 0 30px;
+    line-height: 24px;
+}
+
+.plan {
+    display:flex;
+    align-items: center;
+    
+    
+    width:80%;
+    background-color:hsl(225, 100%, 98%) ;
+    border-radius: 5px;
+    margin: 30px auto;
+    padding:10px 20px;
+    
+    
+    
+}
+
+.plan_set {
+    display: flex;
+    align-items: center;
+    width:80%;
+     
+}
+
+.music_icon {
+
+    width: 50px;
+    height:50px;
+    
+    
+}
+
+
+.annual_plan {
+    display:block;
+    line-height: 7px;
+    padding-left:20px;
+    
+}
+
+
+h3 {
+    font-size:15px;
+    font-weight: 900;
+}
+
+.annual_plan p {
+    font-size:15px;
+    line-height: 7px;
+    padding:0;
+    color:hsl(224, 23%, 55%);
+}
+
+    
+
+
+.change {
+    font-size:12px;
+    width:20%;
+    padding-left:50px;
+    font-weight: 900;
+    color:
+    
+}
+
+.change a {
+    color:hsl(223, 47%, 23%);
+}
+
+.change a:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color:hsl(224, 23%, 55%);
+}
+
+
+button {
+    width:86%;
+    background-color:hsl(245, 75%, 52%) ;
+    height:50px;
+    border-radius: 10px;
+    border:none;
+    font-size: 15px;
+    color:white;
+    font-weight:700;
+    font-family:'Red Hat Display', sans-serif; 
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    
+}
+
+button:hover {
+    cursor: pointer;
+    background-color:hsl(224, 23%, 55%);
+}
+
+.button a {
+    
+    color:hsl(224, 23%, 55%);
+    font-weight: 900;
+    margin-top:10px;
+    text-decoration: none;
+    
+}
+
+
+
+a:hover {
+    color: hsl(223, 47%, 23%);
+    cursor: pointer;
+}
+
+
+
+
+.button {
+    padding-bottom:30px;
+}
